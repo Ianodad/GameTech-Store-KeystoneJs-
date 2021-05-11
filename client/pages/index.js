@@ -3,9 +3,9 @@ import Layout from '../components/Layout';
 const IndexPage = () => {
     const h = 'hello world';
     return (
-        <Layout>
+        // <Layout>
             <div>Hello world</div>
-        </Layout>
+        // </Layout>
     );
 };
 

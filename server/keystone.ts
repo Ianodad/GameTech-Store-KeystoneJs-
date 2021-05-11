@@ -27,7 +27,6 @@ const { withAuth } = createAuth({
   },
 });
 
-console.log(Product);
 export default withAuth(
   config({
     // @ts-ignore
