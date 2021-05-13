@@ -1,7 +1,10 @@
-import Layout from "../../components/Layout";
+import CreateProduct from '../../components/CreateProduct';
+// import PleaseSignIn from '../components/PleaseSignIn';
 
-const index = () => {
-  return <Layout>Sell</Layout>;
-};
-
-export default index;
+export default function SellPage() {
+  return (
+    <div>
+        <CreateProduct />
+    </div>
+  );
+}
