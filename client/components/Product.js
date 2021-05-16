@@ -1,10 +1,10 @@
-import Link from "next/link";
-import formatMoney from "../lib/formatMoney";
-import ItemStyles from "./styles/ItemStyles";
-import PriceTag from "./styles/PriceTag";
-import Title from "./styles/Title";
+import Link from 'next/link';
+import ItemStyles from './styles/ItemStyles';
+import Title from './styles/Title';
+import PriceTag from './styles/PriceTag';
+import formatMoney from '../lib/formatMoney';
 import DeleteProduct from './DeleteProduct';
-
+import AddToCart from './AddToCart';
 
 export default function Product({ product }) {
   return (
@@ -18,10 +18,10 @@ export default function Product({ product }) {
       </Title>
       <PriceTag>{formatMoney(product.price)}</PriceTag>
       <p>{product.description}</p>
-      <div className='buttonList'>
+      <div className="buttonList">
         <Link
           href={{
-            pathname: "update",
+            pathname: '/update',
             query: {
               id: product.id,
             },
@@ -29,9 +29,9 @@ export default function Product({ product }) {
         >
           Edit ✏️
         </Link>
+        <AddToCart id={product.id} />
         <DeleteProduct id={product.id}>Delete</DeleteProduct>
       </div>
-      {/* TODO: Add buttons to edit and delte item */}
     </ItemStyles>
   );
 }
