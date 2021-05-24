@@ -6,6 +6,8 @@ import {
 } from "@keystone-next/keystone/session";
 import "dotenv/config";
 import { extendGraphqlSchema } from './mutations';
+import { permissionsList } from './schemas/fields';
+import { Role } from './schemas/Role';
 import { CartItem } from './schemas/CartItem';
 import { Product } from "./schemas/Product";
 import { ProductImage } from "./schemas/ProductImage";
@@ -54,6 +56,7 @@ export default withAuth(
     lists: createSchema({
       // Schema items go in here
       User,
+      Role,
       Order,
       Product,
       CartItem,
@@ -69,7 +72,7 @@ export default withAuth(
     },
     session: withItemData(statelessSessions(sessionConfig), {
       // GraphQL Query
-      User: "id name email",
+      User: `id name email role { ${permissionsList.join(' ')} }`,
     }),
   })
 );
