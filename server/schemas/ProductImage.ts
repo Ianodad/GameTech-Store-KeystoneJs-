@@ -16,7 +16,13 @@ export const ProductImage = list({
       cloudinary,
       label: "Source",
     }),
-    product: relationship({ ref: 'Product.photo' }),
+    product: relationship({ ref: "Product.photo" }),
     altText: text(),
+  },
+  ui: {
+    listView: {
+      initialColumns: ["image", "altText", "product"],
+      
+    },
   },
 });

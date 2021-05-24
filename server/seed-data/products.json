@@ -1,0 +1,385 @@
+[{
+  "_id": {
+    "$oid": "60a2b6873755232a70ff626e"
+  },
+  "name": "AMD Ryzen 5 3600XT",
+  "description": "Ryzen 5 3600 3.6GHz, GTX 1660 Super 6G, 500GB SSD, 16GB DDR4 3000MHz, RGB Fans, Windows 10 Home 64-bit, 802.11AC Wi-Fi",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2b6053755232a70ff626d"
+  },
+  "price": 3862800,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2bb425f710e40e261ac61"
+  },
+  "name": "ASUS GeForce RTX 3080",
+  "description": "From top to bottom, the ROG Strix GeForce RTX™ 3080 has been radically improved to accommodate the impressive new Ampere chips from NVIDIA and to deliver the next wave of gaming performance innovation to the market. A fresh design and more metal surrounds a grouping of Axial-tech fans. Last gen's uniform fan layout has been usurped by a new rotation scheme and specialized roles for central and auxiliary fans. Below the blades, a larger, more impressive heatsink is ready for the most demanding thermal loads. The PCB has some new tricks up its sleeves, and even the backplate has received some performance-boosting changes. You've been waiting for the latest and greatest in GPU design - and this is it.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2bab05f710e40e261ac60"
+  },
+  "price": 15086273,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2bdf75f710e40e261ac64"
+  },
+  "name": "Dell Alienware Aurora R10",
+  "description": "The new Alienware Aurora Ryzen Edition desktop gives you the power to develop and explore new worlds with up to 16-core 3rd generation AMD Ryzen processo",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2bd9c5f710e40e261ac63"
+  },
+  "price": 21419300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2bfe15f710e40e261ac67"
+  },
+  "name": "Razer Rogue v3",
+  "description": "Store Laptops & Accompanying Peripherals: The backpack's main compartment is large enough for the Razer Blade 15 or any other 15 inch laptop, while the accessory compartment has ample space for electronics",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2bf915f710e40e261ac66"
+  },
+  "price": 1072893,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c15b5f710e40e261ac6a"
+  },
+  "name": "Lenovo Legion Recon",
+  "description": "Unbelievable storage - room for a 15. 6\" Lenovo Gaming laptop, a large main compartment, plus dedicated pockets for all of your gaming gear and accessories. Fits up to 267 x 30 x 362 mm (10. 5 x 1. 2 x 14. 3 in)",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c1265f710e40e261ac69"
+  },
+  "price": 1072893,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c2555f710e40e261ac6d"
+  },
+  "name": "Asus ROG Phone 3",
+  "description": "The GameCool 3 cooling system in ROG Phone 3 uses an advanced 3D vapor chamber and a large heat sink that are precisely located to eliminate hotspots. The cooling system is incredibly effective at removing heat during full-speed operation via its specially designed vents. This comprehensive cooling system allows ROG Phone 3 to easily sustain peak performance during heavy gaming sessions, eliminating throttling to give you an expert edge against the competition.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c20c5f710e40e261ac6c"
+  },
+  "price": 11852251,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c3495f710e40e261ac70"
+  },
+  "name": "PEROINE Massage Gaming Chair",
+  "description": "MULTIFUNCTIONAL GAMING CHAIR】 - Our ergonomic gaming chair was designed for superior functional comfort as it features a multitude of adjusting systems and comfy seating. Ideal for long gaming sessions, our office chair is also perfect for your computer desk, long hours of office work and for great relaxation anywhere you need it.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c2eb5f710e40e261ac6f"
+  },
+  "price": 1394793,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c5535f710e40e261ac73"
+  },
+  "name": "SCUF Prestige Custom Performance",
+  "description": "This wired and wireless pro-level controller is designed to improve every aspect of your gameplay. Controller features like paddles and adjustable hair triggers improve speed, accuracy, and precision. While our high-performance textured grip offers a new levels of gamer comfort. Be sure to check our special editions so look good while making your mark.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c4995f710e40e261ac72"
+  },
+  "price": 1823993,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c7525f710e40e261ac74"
+  },
+  "name": "PowerA FUSION Pro",
+  "description": "Mappable Pro Pack - Map buttons to the rear paddles on-the-fly without letting go of the thumb sticks.",
+  "status": "DRAFT",
+  "price": 1287493,
+  "__v": 0,
+  "photo": {
+    "$oid": "60a2c77d5f710e40e261ac76"
+  }
+},{
+  "_id": {
+    "$oid": "60a2c8825f710e40e261ac79"
+  },
+  "name": "Playstation DualSense",
+  "description": "Haptic feedback - Feel physically responsive feedback to your in-game actions with dual actuators which replace traditional rumble motors. In your hands, these dynamic vibrations can simulate the feeling of everything from environments to the recoil of different weapons.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c84c5f710e40e261ac78"
+  },
+  "price": 729425,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c9135f710e40e261ac7c"
+  },
+  "name": "Bimormat RGB Mouse Pad",
+  "description": "High Quality - Made of high elasticity natural rubber, this mouse mat is non-toxic and has no hazardous substances, safe for use. Anti-slip base can firmly grip your desktop and nylon stitched edges make the pad much more durable and longer lasting. Easily roll up the mouse pad without getting wrinkless or creases.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c8b25f710e40e261ac7b"
+  },
+  "price": 300333,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2c9a35f710e40e261ac7f"
+  },
+  "name": "Oculus Rift S",
+  "description": "Top VR gaming library: Blast, slash and soar your way through the top library in VR gaming. Oculus Rift S lets you play hundreds of games and exclusives already available in the Oculus store, with so much more to come.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2c9775f710e40e261ac7e"
+  },
+  "price": 4710470,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2caf55f710e40e261ac82"
+  },
+  "name": "Asus ROG Strix XG49VQ 49",
+  "description": "49” dfhd (3840 x 1080) 1800R curved Super ultra-wide monitor with 144Hz and free Sync 2 HDR for immersive, smooth gaming with DisplayPort and HDMI connectivity49” dfhd (3840 x 1080) 1800R curved Super ultra-wide monitor with 144Hz and free Sync 2 HDR for immersive, smooth gaming with DisplayPort and HDMI connectivity",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2ca3b5f710e40e261ac81"
+  },
+  "price": 8910407,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2cc1f5f710e40e261ac85"
+  },
+  "name": "Razer Kraken Tournament Edition",
+  "description": "Retractable Noise Cancelling Microphone: An improved cardioid mic reduces background and ambient noises for crystal-clear communication",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2cbb65f710e40e261ac84"
+  },
+  "price": 568583,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2cda25f710e40e261ac8b"
+  },
+  "name": "NPET K10 Gaming Keyboard",
+  "description": "Professional Gaming Keyboard. UV coated keycaps and injection laser carving ABS keycaps design, the letter of characters never fade. Anti-sweat, prevents keycap damage, enhanced durability, and tactile feedback. Thick and firm stainless steel base plate, long service life, and never deforms. Metal and ABS construction make it more solid and reliable. NPET K10 gaming keyboard is more durable than the plastic keyboard, your best keyboard choice",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a2cd535f710e40e261ac8a"
+  },
+  "price": 155049,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a2ce4a5f710e40e261ac8c"
+  },
+  "name": "Razer Naga Pro",
+  "description": "The #1 Best-Selling Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc. U.S. Retail Tracking Service, Keyboards, Mice, PC Headset/Pc Microphone, Gaming Designed, based on dollar sales, 2017-2021",
+  "status": "DRAFT",
+  "price": 15699,
+  "__v": 0,
+  "photo": {
+    "$oid": "60a2ce995f710e40e261ac8e"
+  }
+},{
+  "_id": {
+    "$oid": "60a4b35aaca9562da23f44fa"
+  },
+  "name": "UHURU Wireless Gaming Mouse",
+  "description": "Every button can be programmed by installing driver software, which makes the mouse more intelligent and meets more different games demand MMO gaming(Tips: The gaming driver is compatible with Windows only.). Every mouse button through 10 million times click test makes sure it's precise and endurable. Ergonomic Struction comfortable fit in games’ hand.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4b31daca9562da23f44f9"
+  },
+  "price": 182626,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4b5e4aca9562da23f44ff"
+  },
+  "name": "Xbox Series X",
+  "description": "The most powerful console ever features our custom-designed processor, plus:   \nNew speed and performance capabilities thanks to the Xbox Velocity Architecture. 12 teraflops of power. True 4K gaming & 8K ready .120 FPS. 1TB custom SSD",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4b5a1aca9562da23f44fe"
+  },
+  "price": 5374892,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4b6b1aca9562da23f4502"
+  },
+  "name": "Sony PS5",
+  "description": "The PS5™ console unleashes new gaming possibilities that you never anticipated. Experience lightning fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation® games.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4b663aca9562da23f4501"
+  },
+  "price": 5377392,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4c81daca9562da23f4507"
+  },
+  "name": "DJI RoboMaster S1",
+  "description": "The RoboMaster S1 is a game-changing educational robot built to unlock the potential in every learner. Inspired by DJI's annual RoboMaster robotics competition, the S1 provides users with an in-depth understanding of science, math, physics, programming, and more through captivating gameplay modes and intelligent features.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4c800aca9562da23f4506"
+  },
+  "price": 5912730,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4c9e7aca9562da23f450a"
+  },
+  "name": "Nintendo Switch Joy-Con Pair",
+  "description": "Customize your Switch with some wonderful Joy-Cons in awesome Blue and Neon Yellow. These Joy-Cons come in a pair, with matching black Nintendo Switch Controller Straps. ",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4c986aca9562da23f4509"
+  },
+  "price": 992445,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4cc9baca9562da23f450d"
+  },
+  "name": "Lenovo LAVIE MINI",
+  "description": "Basically a pocket-size Windows PC, the Lenovo LAVIE MINI convertible PC has a super portable design yet boasts a vivid eight-inch WUXGA touch display. This Windows PC has an 11th-generation Intel Core processor, making it great for playing games or just doing everyday tasks.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4cc67aca9562da23f450c"
+  },
+  "price": 7539000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4cd7daca9562da23f4510"
+  },
+  "name": "Western Digital SN850",
+  "description": "If you love downloading games, you need the Western Digital WD_BLACK SN850 NVMe SSD, which is available in three sizes: 500 GB, one terabyte, and two terabytes. A standout feature of this gaming device is that it comes with a downloadable WD_BLACK Dashboard where you can monitor your drive’s health. In fact, it even lets you optimize performance using gaming mode, so you can be at your best for intense gaming sessions. ",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4cd1eaca9562da23f450f"
+  },
+  "price": 1604730,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4cebfaca9562da23f4513"
+  },
+  "name": "Lenovo Legion Slim 7i",
+  "description": "The Lenovo Legion Slim 7i gaming laptop is just 18 millimeters thick and weighs 3.9 pounds, making it lightweight and portable. The device features plenty of elements that make it suitable for gaming. For example, its FHD display and 60 Hz refresh rate mean you can play without interruptions. Plus, the 4K option enhances the visuals to create a realistic experience for gamers.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4ce44aca9562da23f4512"
+  },
+  "price": 15515892,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4d851aca9562da23f4516"
+  },
+  "name": "CORSAIR ONE a100",
+  "description": "You don’t need to lose desk space just to win your game. The CORSAIR ONE a100 compact gaming PC proves that a computer the size of a laptop can deliver impressive performance. In fact, this 12-liter gaming computer uses an AMD Ryzen 3000 series processor.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4d849aca9562da23f4515"
+  },
+  "price": 43199892,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4d9a8aca9562da23f4519"
+  },
+  "name": "SteelSeries Aerox 3",
+  "description": "Offering protection against dust, dirt, oil, fur, and liquids, the SteelSeries Aerox 3 Wireless water-resistant gaming mouse enhances your gaming. It features AquaBarrier for maximum protection against spills, so you needn’t stress about water damage. Aside from its durable design, it offers high levels of accuracy, thanks to the TrueMove Air Sensor.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4d98eaca9562da23f4518"
+  },
+  "price": 1078392,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e085aca9562da23f451c"
+  },
+  "name": "Lenovo Legion Gaming",
+  "description": "The Lenovo Legion Gaming Smartphone comes with many impressive features. Its highlight is the side-mounted pop-up camera that houses a 20-megapixel sensor. This camera adds a quirky, unique touch, enabling you to take the perfect selfie. You can also move the camera on the side for a custom finish. ",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e027aca9562da23f451b"
+  },
+  "price": 15429700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e12aaca9562da23f451f"
+  },
+  "name": "CORSAIR VENGEANCE i4200",
+  "description": "You need a computer that can keep up with your games. And the CORSAIR VENGEANCE i4200 Gaming Computer is that PC. Powered by the 10th-generation Intel Core processor, this CORSAIR PC ensures you’re ahead of the competition. And you’ll enjoy how it looks, too, thanks to the NVIDIA GeForce RTX graphics.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e0f6aca9562da23f451e"
+  },
+  "price": 26447642,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e1feaca9562da23f4522"
+  },
+  "name": "ASUS ROG Swift 32-inch",
+  "description": "Use the newest gaming consoles at your desk without compromising when you have the ASUS ROG Swift 32-inch 4K gaming monitor. This gaming gadget boasts two HDMI 2.1 ports, allowing you to run games in 4K at 120 Hz on a compatible Windows PC, Xbox Series X, or PS5.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e1b1aca9562da23f4521"
+  },
+  "price": 9704705,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e2adaca9562da23f4525"
+  },
+  "name": "MSI GE76 Raider Dragon",
+  "description": "You haven’t seen a computer like the MSI GE76 Raider Dragon Edition Tiamat laptop before. An homage to an ancient goddess, this MSI gaming laptop fuses spirits new and old. With an eye-catching pattern engraved on the lid, this computer measures 17.3 inches.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e27baca9562da23f4524"
+  },
+  "price": 25897205,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e327aca9562da23f4528"
+  },
+  "name": "ASTRO A03",
+  "description": "The ASTRO A03 In-Ear Monitors gaming earbuds are tuned with ASTRO Audio V2 to provide a tight distortion-free bass, as well as clear mids and highs. Furthermore, the extended frequency spectrum helps to bring sounds to life and create true-to-life audio.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e2ffaca9562da23f4527"
+  },
+  "price": 539642,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a4e392aca9562da23f452b"
+  },
+  "name": "Dell G5 15",
+  "description": "The Dell G5 15 Special Edition Ryzen Gaming Laptop is a powerful, affordable machine ready to game wherever you are. The PC combines AMD Renoir-H Ryzen processors with eight Zen 2 cores at 2.9–4.2 GHz.",
+  "status": "DRAFT",
+  "photo": {
+    "$oid": "60a4e369aca9562da23f452a"
+  },
+  "price": 9175642,
+  "__v": 0
+}]

@@ -5,11 +5,13 @@ import {
   withItemData
 } from "@keystone-next/keystone/session";
 import "dotenv/config";
+import { extendGraphqlSchema } from './mutations';
 import { CartItem } from './schemas/CartItem';
 import { Product } from "./schemas/Product";
 import { ProductImage } from "./schemas/ProductImage";
 import { User } from "./schemas/User";
-import { extendGraphqlSchema } from './mutations';
+import { OrderItem } from './schemas/OrderItem';
+import { Order } from './schemas/Order';
 
 
 const databaseURL =
@@ -30,11 +32,11 @@ const { withAuth } = createAuth({
   }, 
   passwordResetLink: {
     async sendToken(args) {
-      console.log(args);
+      // console.log(args);
     },
   },
 });
-
+console.log(JSON.stringify(Product))
 export default withAuth(
   config({
     // @ts-ignore
@@ -52,8 +54,10 @@ export default withAuth(
     lists: createSchema({
       // Schema items go in here
       User,
+      Order,
       Product,
       CartItem,
+      OrderItem,
       ProductImage,
     }),
     extendGraphqlSchema,
