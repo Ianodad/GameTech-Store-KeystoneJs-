@@ -1,36 +1,71 @@
-# Keystone.js + Apollo Client + Next.js E-commerce
+<!---
+<h1 align="center">
+  <br><a href="https://imgbb.com/"><img src="https://i.ibb.co/kXD9vbw/Tech-IT-Not-official.png" alt="Tech-IT-Not-official" border="0"></a></a>
+  <br>
+  <p align="center"><a href="https://ibb.co/nrNNrwW"><img src="https://i.ibb.co/PxvvxrS/ff2b00.png" alt="ff2b00" border="0"></a></p>
+  <br>
+</h1>
+-->
 
-DEMO 👉 ""
+# GaMeTeCh Server -- KEYSTONEJS WITH GRAPHQL
 
 ## Contents
-<!---
-1. [Contents](#contents)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Testing](#testing)
-7. [Questions](#questions)
---->
-## Project Status
-## Key Feautures
-- [x] Schemas User, Product, ProductImage, CartItem, Role, Order, OrderItem
-- [x] Products View
-- [x] Product Details
-- [x] CRUD Product
-- [x] Pagination Pages
-- [x] Cart Functionality (add, remove)
-- [x] User Signin, Register,Password Reset
-- [] Set Order
-- [] payment
 
-## Prerequisites
+- [GaMeTeCh Server -- KEYSTONEJS WITH GRAPHQL](#gametech-server----keystonejs-with-graphql)
+  - [Contents](#contents)
+  - [Introduction](#introduction)
+  - [Key Features](#key-features)
+  - [Example](#example)
+  - [Installation](#installation)
+  - [Built With](#built-with)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
-You will need [Node.js](https://nodejs.org) version 8.0 or greater installed on your system.
-Mongodb 
+## Introduction
+
+This is the backend of the tech e-commerce server
+
+## Key Features
+
+- [x] User, Products, Cart, Checkout, Payment Auth CRUD
+- [x] Search
+- [x] MonogoDB
 
 
+## Example
+
+## Installation
+
+```bash
+cd ../server
+npm install
+
+npm run dev
+cd ../client
+npm install
+
+npm run dev
+
+```
+
+## Built With
+
+- KeystoneJS
+- Graphql
+- Apollo Client
+- NextJs
+- Nodemailer
+- Stripe
+
+## Usage
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## License
 
-Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT (c) 2021 [Ian Adera](https://github.com/ianodad))
